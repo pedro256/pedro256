@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**pedro256/pedro256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▪  My name is Pedro 🧑, I'm from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+software developer, graduated in Computer Science (IT) and future Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiast of the best web and mobile development technologies.
+
+
+### 🔷"O limite é uma fronteira criada só pela mente."
+#### 🔵KNOWLEDGE IN:
+* **backend development**
+* **web application development**
+* **development of mobile applications**
+* **game development**
+
+#### 🔵SOCIAL MEDIAS:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-fffff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-663094199/)](https://www.linkedin.com/in/pedro-henrique-663094199/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedroh93601@gmail.com-fffff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroh93601@gmail.com)](mailto:pedroh93601@gmail.com)
