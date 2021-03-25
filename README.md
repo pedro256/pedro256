@@ -2,7 +2,7 @@
 
 ▪  My name is Pedro 🧑, I'm from Brazil 🇧🇷
 
-software developer, graduated in Computer Science (IT) and future Software Engineer.
+Software developer, graduated in Computer Science (IT) and future Software Engineer.
 
 Enthusiast of the best web and mobile development technologies.
 
