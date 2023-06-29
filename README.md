@@ -6,9 +6,10 @@ Software developer, graduated in Computer Science (IT) and future Software Engin
 ### 🔷"O limite é uma fronteira criada só pela mente."
 #### 🔵KNOWLEDGE IN:
 * **backend development**
-* **web application development**
-* **development of mobile applications**
+*   JAVA
+*   C#
 * **game development**
+*   Unity
 
 #### 🔵SOCIAL MEDIAS:
 
