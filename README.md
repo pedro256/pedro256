@@ -20,7 +20,6 @@ Software developer, graduated in Computer Science (IT) and future Software Engin
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Logo" title="React.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android Logo" title="Android" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=61DAFB" alt="Java Logo" title="Java" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=61DAFB" alt="CSharp Logo" title="C#" height="25" />&nbsp;
 <br>
 <br>
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=f9ed02" alt="Firebase Logo" title="Firebase" height="25" />&nbsp;
